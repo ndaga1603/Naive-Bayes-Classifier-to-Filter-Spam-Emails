@@ -1,6 +1,6 @@
 # Naive-Bayes-Classifier-to-Filter-Spam-Emails
 A Naive Bayes classifier is a simple and effective method for filtering spam emails. It's based on the principles of Bayesian probability and assumes that the features (words) in an email are independent of each other. Despite its simplicity, Naive Bayes often performs well in practice.
-<<<<<<< HEAD
+
 
 <div style="display: flex;">
   <div style="flex: 50%; padding: 5px;">
@@ -33,3 +33,6 @@ The dataset used in this project is the [SpamAssassin Public Corpus](http://spam
 
 =======
 >>>>>>> dd71090defafbb8aaea103081398a157549c1319
+=======
+
+>>>>>>> 9d66e76758ddedc79ba5244c69c11a196774e101
