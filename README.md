@@ -3,10 +3,9 @@ A Naive Bayes classifier is a simple and effective method for filtering spam ema
 
 
 <div style="display: flex;">
+    
   <div style="flex: 50%; padding: 5px;">
     <img src="./SpamData/assets/thumb-up.png" alt="Thumb Up" style="width: 50%;">
-  </div>
-  <div style="flex: 50%; padding: 5px;">
     <img src="./SpamData/assets/thumb-down.png" alt="Thumb Down" style="width: 50%;">
   </div>
 </div>
